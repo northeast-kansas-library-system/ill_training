@@ -10,11 +10,11 @@ Go to your `ShareIt URLs`_
 
 Login with your ShareIt [username and password](#shareit-usernames-and-passwords)
 
-  |image1|
+.. image:: images/020.jpg
 
 A successfull login should look like this:
 
-  |image2|
+.. image:: images/030.jpg
 
 If you have trouble logging in, keep reading.
 
@@ -39,7 +39,7 @@ Next Search Catalog URL location
 
 If you are a member of the Next consortium, you can find the ShareIt URL for your library on the left side of the home page in the staff client.
 
-  |image3|
+.. image:: images/040.jpg
 
 URL Troubleshooting
 -------------------
@@ -48,9 +48,9 @@ If you attempt to log into ShareIt and you do not get the normal login window, y
 
 The most common URL problem looks like this:
 
-  |image4|
+.. image:: images/050.jpg
 
-  |image5|
+.. image:: images/060.jpg
 
 
 If you see either of these scenarios, you can try an alternative URL
