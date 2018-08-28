@@ -12,7 +12,7 @@ Welcome to Ill training's documentation!
 
    login
    participant
-   search
+   searching
    request
    cataloging
 
