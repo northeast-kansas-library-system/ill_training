@@ -6,15 +6,15 @@ Example logon
 
 Go to your `ShareIt URLs`_
 
-|image2|
+|image0|
 
 Login with your ShareIt [username and password](#shareit-usernames-and-passwords)
 
-|image3|
+|image1|
 
 A successfull login should look like this:
 
-|image4|
+|image2|
 
 If you have trouble logging in, keep reading.
 
@@ -32,7 +32,7 @@ http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=over
 
 The difference between one library's login and another's is that you have to substitute the XXX in the middle of the above URL with your library's OCLC organization symbol. If you do not know your library's OCLC organization symbol, it can be found at
 
-[https://www.oclc.org/en/contacts/libraries.html](https://www.oclc.org/en/contacts/libraries.html)
+`https://www.oclc.org/en/contacts/libraries.html`_
 
 `<https://www.oclc.org/en/contacts/libraries.html>`_
 
@@ -41,7 +41,7 @@ Next Search Catalog URL location
 
 If you are a member of the Next consortium, you can find the ShareIt URL for your library on the left side of the home page in the staff client.
 
-|image5|
+|image3|
 
 URL Troubleshooting
 -------------------
@@ -50,9 +50,9 @@ If you attempt to log into ShareIt and you do not get the normal login window, y
 
 The most common URL problem looks like this:
 
-|image6|
+|image4|
 
-|image7|
+|image5|
 
 
 If you see either of these scenarios, you can try an alternative URL
