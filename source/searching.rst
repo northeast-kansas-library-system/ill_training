@@ -70,20 +70,28 @@ If you need to borrow multiple copies of a title (maybe for a book-club or class
 
     Multi-copy request form
 
+|
+
 Once a request has been submitted, [it must be approved](#approve-requests-after-they-are-made) in the "Request manager" module.
 
 ### Approve requests after they are made
 
 After requests have been made, staff need to approve the requests.  The approval process is built into the system because some libraries allow patron initiated ILL requests through ShareIt.  The approval process allows staff to review any requests before they are sent to other libraries to make sure the ILL request are in line with the borrowing library's ILL policies.
 
+|
+
 .. figure:: image/170.jpg
 
     Approval 1-2
+
+|
 
 .. figure:: image/180.jpg
 
     Approval 3
 
-.. figure:: image/190.jpg
+|
+
+.. figure:: /image/190.jpg
 
     Approval 4-5
