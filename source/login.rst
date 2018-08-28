@@ -6,15 +6,21 @@ Example logon
 
 Go to your `ShareIt URL`_
 
-.. image:: images/010.jpg
+.. figure:: images/010.jpg
+
+    Logon screen
 
 Login with your ShareIt [username and password](#shareit-usernames-and-passwords)
 
-.. image:: images/020.jpg
+.. figure:: images/020.jpg
+
+    Username and password
 
 A successfull login should look like this:
 
-.. image:: images/030.jpg
+.. figure:: images/030.jpg
+
+    Success
 
 If you have trouble logging in, keep reading.
 
@@ -39,7 +45,9 @@ Next Search Catalog URL location
 
 If you are a member of the Next consortium, you can find the ShareIt URL for your library on the left side of the home page in the staff client.
 
-.. image:: images/040.jpg
+.. figure:: images/060.jpg
+
+    Next Share Catalog link
 
 URL Troubleshooting
 -------------------
@@ -48,10 +56,13 @@ If you attempt to log into ShareIt and you do not get the normal login window, y
 
 The most common URL problem looks like this:
 
-.. image:: images/050.jpg
+.. figure:: images/040.jpg
 
-.. image:: images/060.jpg
+    Kansas Library Catalog
 
+.. figure:: images/050.jpg
+
+    Two input boxes
 
 If you see either of these scenarios, you can try an alternative URL
 
