@@ -25,14 +25,12 @@ ShareIt requires that each library logs in from a specific URL.
 
 The format for a ShareIt login URL is
 
-.. code-block:: html
+::
 
-http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=over
+  http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=over
 
 
 The difference between one library's login and another's is that you have to substitute the XXX in the middle of the above URL with your library's OCLC organization symbol. If you do not know your library's OCLC organization symbol, it can be found at
-
-`https://www.oclc.org/en/contacts/libraries.html`_
 
 `<https://www.oclc.org/en/contacts/libraries.html>`_
 
@@ -57,9 +55,9 @@ The most common URL problem looks like this:
 
 If you see either of these scenarios, you can try an alternative URL
 
-.. code-block:: html
+::
 
-http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=force
+  http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=force
 
 The difference between this URL and the previous one is that the last part of the URL is changed from "over" to "force" (you will need to put your OCLC symbol where the XXX is in this URL too).
 
