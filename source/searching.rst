@@ -1,8 +1,8 @@
-Search and request
-==================
+Searching and request
+=====================
 
-Search
-------
+Searhching
+----------
 
 Search box
 ^^^^^^^^^^
