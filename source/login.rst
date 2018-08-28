@@ -6,7 +6,7 @@ Example logon
 
 Go to your `ShareIt URLs`_
 
-.. |Login| image:: images/010.jpg
+.. |Login| image:: ../images/010.jpg
 
 Login with your ShareIt [username and password](#shareit-usernames-and-passwords)
 
