@@ -4,7 +4,7 @@ Logging in to Shareit
 Example logon
 -------------
 
-Go to your `ShareIt URLs`_
+Go to your `ShareIt URL`_
 
 .. image:: images/010.jpg
 
@@ -18,8 +18,8 @@ A successfull login should look like this:
 
 If you have trouble logging in, keep reading.
 
-ShareIt URLs
-^^^^^^^^^^^^
+ShareIt URL
+^^^^^^^^^^^
 
 ShareIt requires that each library logs in from a specific URL.
 
