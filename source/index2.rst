@@ -10,7 +10,11 @@ Welcome to Ill training's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   login
+   participant
+   search
+   request
+   cataloging
 
 Indices and tables
 ==================
