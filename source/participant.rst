@@ -8,10 +8,22 @@ Log into ShareIt as normal, then click on the link that says "Staff dashboard," 
 
 .. figure:: images/080.jpg
 
-    Locating participant record
+.. cssclass:: centered
+
+    **Locating participant record**
+
+-----
 
 Once you're logged in, the basic setup for public libraries requires that you fill in the fields highlighted in green in this screenshot:
 
+.. cssclass:: centered
+
+    **Basic participant record setup**
+
 .. figure:: images/090.jpg
 
-    Basic participant record setup
+.. cssclass:: centered
+
+    **Basic participant record setup**
+
+    -----

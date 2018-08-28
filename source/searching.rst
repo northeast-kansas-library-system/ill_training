@@ -9,7 +9,7 @@ Search box
 
 The search box appears at the top of every screen in ShareIt.
 
-.. figure::  images/100-searhching.jpg
+.. figure::  images/100-searching.jpg
 
     Search box
 
