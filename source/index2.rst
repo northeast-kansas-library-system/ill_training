@@ -6,6 +6,8 @@
 Welcome to Ill training's documentation!
 ========================================
 
+.. include:: images.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
