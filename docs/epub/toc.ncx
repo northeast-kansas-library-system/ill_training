@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Ill training</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>NEKLS Ill training</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Logging in to Shareit</text>
+      </navLabel>
+      <content src="login.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Logging in to Shareit</text>
+        </navLabel>
+        <content src="login.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Example logon</text>
+        </navLabel>
+        <content src="login.xhtml#example-logon" />  
+        <navPoint id="navPoint5" playOrder="3">
+          <navLabel>
+            <text>Example logon</text>
+          </navLabel>
+          <content src="login.xhtml#example-logon" />  
+        </navPoint>
+        <navPoint id="navPoint6" playOrder="4">
+          <navLabel>
+            <text>ShareIt URL</text>
+          </navLabel>
+          <content src="login.xhtml#shareit-url" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint7" playOrder="5">
+        <navLabel>
+          <text>Next Search Catalog URL location</text>
+        </navLabel>
+        <content src="login.xhtml#next-search-catalog-url-location" />  
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>URL Troubleshooting</text>
+        </navLabel>
+        <content src="login.xhtml#url-troubleshooting" />  
+      </navPoint>
+      <navPoint id="navPoint9" playOrder="7">
+        <navLabel>
+          <text>ShareIt Usernames and Passwords</text>
+        </navLabel>
+        <content src="login.xhtml#shareit-usernames-and-passwords" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint10" playOrder="8">
+      <navLabel>
+        <text>Participant record</text>
+      </navLabel>
+      <content src="participant.xhtml" />  
+      <navPoint id="navPoint11" playOrder="8">
+        <navLabel>
+          <text>Participant record</text>
+        </navLabel>
+        <content src="participant.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="9">
+        <navLabel>
+          <text>Setting up your ShareIt patricipant record - Basic</text>
+        </navLabel>
+        <content src="participant.xhtml#setting-up-your-shareit-patricipant-record-basic" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint13" playOrder="10">
+      <navLabel>
+        <text>Searching and request</text>
+      </navLabel>
+      <content src="searching.xhtml" />  
+      <navPoint id="navPoint14" playOrder="10">
+        <navLabel>
+          <text>Searching and request</text>
+        </navLabel>
+        <content src="searching.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint15" playOrder="11">
+        <navLabel>
+          <text>Searhching</text>
+        </navLabel>
+        <content src="searching.xhtml#searhching" />  
+        <navPoint id="navPoint16" playOrder="11">
+          <navLabel>
+            <text>Searhching</text>
+          </navLabel>
+          <content src="searching.xhtml#searhching" />  
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="12">
+          <navLabel>
+            <text>Search box</text>
+          </navLabel>
+          <content src="searching.xhtml#search-box" />  
+        </navPoint>
+        <navPoint id="navPoint18" playOrder="13">
+          <navLabel>
+            <text>Catalog selection</text>
+          </navLabel>
+          <content src="searching.xhtml#catalog-selection" />  
+        </navPoint>
+        <navPoint id="navPoint19" playOrder="14">
+          <navLabel>
+            <text>Search results</text>
+          </navLabel>
+          <content src="searching.xhtml#search-results" />  
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="15">
+          <navLabel>
+            <text>Detailed results 1</text>
+          </navLabel>
+          <content src="searching.xhtml#detailed-results-1" />  
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="16">
+          <navLabel>
+            <text>Detailed results 2</text>
+          </navLabel>
+          <content src="searching.xhtml#detailed-results-2" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint22" playOrder="17">
+        <navLabel>
+          <text>Requests</text>
+        </navLabel>
+        <content src="searching.xhtml#requests" />  
+        <navPoint id="navPoint23" playOrder="17">
+          <navLabel>
+            <text>Requests</text>
+          </navLabel>
+          <content src="searching.xhtml#requests" />  
+        </navPoint>
+        <navPoint id="navPoint24" playOrder="18">
+          <navLabel>
+            <text>Basic request</text>
+          </navLabel>
+          <content src="searching.xhtml#basic-request" />  
+        </navPoint>
+        <navPoint id="navPoint25" playOrder="19">
+          <navLabel>
+            <text>Requesting multi-copies</text>
+          </navLabel>
+          <content src="searching.xhtml#requesting-multi-copies" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint26" playOrder="20">
+      <navLabel>
+        <text>Borrower requests</text>
+      </navLabel>
+      <content src="request.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint27" playOrder="21">
+      <navLabel>
+        <text>Lender requests</text>
+      </navLabel>
+      <content src="request.xhtml#lender-requests" />  
+      <navPoint id="navPoint28" playOrder="21">
+        <navLabel>
+          <text>Lender requests</text>
+        </navLabel>
+        <content src="request.xhtml#lender-requests" />  
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="22">
+        <navLabel>
+          <text>Definitions</text>
+        </navLabel>
+        <content src="request.xhtml#definitions" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint30" playOrder="23">
+      <navLabel>
+        <text>Adding a title to Next Search Catalog from ShareIt</text>
+      </navLabel>
+      <content src="cataloging.xhtml" />  
+    </navPoint>
+  </navMap>
+</ncx>
