@@ -121,5 +121,59 @@ Lender requests
 
 These are the requests for things other libraries want you to loan to them.
 
+-  Pending = things appear here when another library requests materials from you
+
+   -  **Options**
+
+      #. Pending = You need to take action on this request
+      #. Will Supply/In Process = You agree to fill this request but it has not yet shipped
+      #. Shipped - You are shipping the item
+      #. Retry = You can't fill the request now, but if they try again later, you might
+      #. Conditional = You will fill the request but the borrowing library needs to agree to specific conditions (in library use only, etc.)
+      #. Will not Supply = You will not fill this request
+
+-  Will Supply/In Process = things appear in this area after you ship them to the requesting library
+
+   -  **Options**
+
+      #. Shipped - You have shipped the request to the requesting library
+      #. Retry = You can't fill the request now, but if they try again later, you might
+      #. Conditional = You will fill the request but the borrowing library needs to agree to specific conditions (in library use only, etc.)
+      #. Will not Supply = You will not fill this request
+
+-  Renew/Overdue = things appear in this area when the requesting library asks you for a renewal on an item that is overdue /or/ if an item you have shipped is overdue
+
+   -  **Options**
+
+      #. Accept Renewal = The requesting library has requested a renewal and you are granting it
+      #. Reject Renewal = The requesting library has requested a renewal and you are not granting it
+      #. Recall = The requesting library has requested a renewal and you are rejecting the request and asking the borrowing library to return the item as soon as possible
+      #. Check in = You have received an item you sent out for loan and you are checking it in
+      #. Lost = The item is overdue and you are declaring the item "Lost"
+      #. Overdue = The item is overdue
+
+-  Pending Cancel - things appear here when the requesting library cancells a request
+
+   -  **Options**
+
+      #. Confirm cancel = The requesting library has indicated that they no longer need the item - if you haven't shipped the item yet, you can use this to confirm that you have cancelled the ILL processon your end
+      #. Reject cancel = The requesting library has indicated that they no longer need the item but you can't cancel the request because it's already been Shipped -- (setting this option will update the status to "Will supply/In process")
+
+-  Renew Pending - Things appear here after the requesting library request that you renew the item
+
+   -  **Options**
+
+      #. Accept Renewal = The requesting library has requested a renewal and you are granting it
+      #. Reject Renewal = The requesting library has requested a renewal and you are not granting it
+      #. Recall = The requesting library has requested a renewal and you are rejecting the request and asking the borrowing library to return the item as soon as possible
+      #. Check in = You have received an item you sent out for loan and you are checking it in
+      #. Overdue = The item is overdue
+
+-  Returned - after a requested item has been returned, the item information will remain here for a while
+
+   -  **Options**
+   
+      #. Check in = The item you shipped has been returned
+
 Definitions
 -----------
