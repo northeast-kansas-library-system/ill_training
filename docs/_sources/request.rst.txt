@@ -172,8 +172,5 @@ These are the requests for things other libraries want you to loan to them.
 -  Returned - after a requested item has been returned, the item information will remain here for a while
 
    -  **Options**
-   
-      #. Check in = The item you shipped has been returned
 
-Definitions
------------
+      #. Check in = The item you shipped has been returned
